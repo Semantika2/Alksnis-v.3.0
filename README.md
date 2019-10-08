@@ -26,7 +26,7 @@ ALksnio-3.0_sandara.docx - the structure of ALKSNIS v.3.0 files
 From v.2.4 to v.3.0 was developed during the project "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002) funded by Europen Structural Funds 
 
 # References
-For ALKSNIS v.2v1:
+For ALKSNIS v.2.1:
 •	Agnė Bielinskienė, Loïc Boizou, Jolanta Kovalevskaitė, Erika Rimkutė (2016): Lithuanian Dependency Treebank ALKSNIS. In: I. Skadiņa and R. Rozis (Eds.): Human Language Technologies – The Baltic Perspective, pp. 107–114. Amsterdam: IOS Press. doi:10.3233/978-1-61499-701-6-107 http://fcim.vdu.lt/~erika_rimkute/straipsniai/Alksnis_HLT.pdf, http://ebooks.iospress.nl/volumearticle/45523
 
 # For v.3.0 (2019-10-07):
