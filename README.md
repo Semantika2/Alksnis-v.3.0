@@ -30,14 +30,13 @@ For ALKSNIS v.2.1:
 •	Agnė Bielinskienė, Loïc Boizou, Jolanta Kovalevskaitė, Erika Rimkutė (2016): Lithuanian Dependency Treebank ALKSNIS. In: I. Skadiņa and R. Rozis (Eds.): Human Language Technologies – The Baltic Perspective, pp. 107–114. Amsterdam: IOS Press. doi:10.3233/978-1-61499-701-6-107 http://fcim.vdu.lt/~erika_rimkute/straipsniai/Alksnis_HLT.pdf, http://ebooks.iospress.nl/volumearticle/45523
 
 # For v.3.0 (2019-10-07):
-License: CC BY-SA 4.0
-Includes text: yes
-Genre: news nonfiction legal scientific
-Lemmas: manual native
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
-Contributors: Utka, Andrius; Rimkutė, Erika; Bielinskienė, Agnė; Kovalevskaitė, Jolanta; Boizou, Loïc; Aleksandravičiūtė, Gabrielė; Brokaitė, Kristina
-Contributing: elsewhere
-Contact: semantikalt@gmail.com, andrius.utka@vdu.lt
+- License: CC BY-SA 4.0; 
+- Includes text: yes; 
+- Genre: news nonfiction legal scientific; 
+- Lemmas: manual native;
+- UPOS: converted from manual; 
+- XPOS: manual native; 
+- Features: converted from manual; 
+- Relations: converted from manual; 
+- Contributors: Utka, Andrius; Rimkutė, Erika; Bielinskienė, Agnė; Kovalevskaitė, Jolanta; Boizou, Loïc; Aleksandravičiūtė, Gabrielė; Brokaitė, Kristina; 
+- Contact: semantikalt@gmail.com, andrius.utka@vdu.lt.
