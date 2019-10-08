@@ -1,7 +1,7 @@
 # Alksnis-v.3.0 (The Lithuanian dependency treebank)
 
 # Summary
-The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus university). From v.2.4 to v.3.0 was developed during the project "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002) 
+The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus university). From v.2.1 to v.3.0 was developed during the project "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002) 
 
 # Introduction
 This is a new corrected and enhanced version of the ALKSNIS Lithuanian treebank. It is annotated in a style derived from the Prague Dependency Treebank of Czech. 
