@@ -17,8 +17,10 @@ Modifications from v2.1 to 3.0 (2019-07-08)
 - Some syntactic relations were corrected or modified (details to be published in the improved guidelines).
 - Conllu files are added together with the pml files (RMQ conllu files does not keep the mwe field).
 
-# "Jablonskis" (Jablonskis-LT.pdf) annotation standart
-Morphological annotation standart used in ALKSNIS
+# Content:
+ALKSNIS-3.0.ZIP - The Lithuanian dependency treebank files. 
+Jablonskis-LT.pdf - Morphological annotation standart used in ALKSNIS.
+ALksnio-3.0_sandara.docx - the structure of ALKSNIS v.3.0 files
 
 # Acknowlegments
 From v.2.4 to v.3.0 was developed during the project "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002) funded by Europen Structural Funds 
