@@ -23,7 +23,7 @@ Jablonskis-LT.pdf - Morphological annotation standart used in ALKSNIS.
 ALksnio-3.0_sandara.docx - the structure of ALKSNIS v.3.0 files
 
 # Acknowlegments
-From v.2.4 to v.3.0 was developed during the project "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002) funded by Europen Structural Funds 
+From v.2.1 to v.3.0 was developed during the project "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002) funded by Europen Structural Funds 
 
 # References
 For ALKSNIS v.2.1:
